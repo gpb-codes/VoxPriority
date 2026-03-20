@@ -30,7 +30,7 @@ VoxPriority es una aplicacion orientada
 a la gestion de tareas mediante comandos de voz. El sistema permite crear, listar y completar 
 tareas usando lenguaje natural, integrando backend en Python (FastAPI), procesamiento de voz y multiples interfaces (web, widget, escritorio).
 
-#Objetivo
+# Objetivo
 reducir friccion en la gestion diaria de tareas.
 input mas rapido. Menos interaccion manual.
 Mayor productividad
