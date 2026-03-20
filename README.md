@@ -23,3 +23,15 @@
   
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
+# IDEA DEL PROYECTO
+VoxPriority es una aplicacion orientada
+a la gestion de tareas mediante comandos de voz. El sistema permite crear, listar y completar 
+tareas usando lenguaje natural, integrando backend en Python (FastAPI), procesamiento de voz y multiples interfaces (web, widget, escritorio).
+
+#Objetivo
+reducir friccion en la gestion diaria de tareas.
+input mas rapido. Menos interaccion manual.
+Mayor productividad
+
