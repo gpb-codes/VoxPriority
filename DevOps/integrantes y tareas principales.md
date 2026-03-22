@@ -1,4 +1,5 @@
-# Capa Transversal — DevOps / Integración
+
+# DevOps / Integración
 
 <div align="center">
 
