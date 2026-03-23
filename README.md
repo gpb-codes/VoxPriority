@@ -47,7 +47,7 @@ Encargados de construir una arquitectura robusta, eficiente y preparada para esc
 
 ### Base de Datos — Estructura y Rendimiento
 
-**Fernando Ibañez, Gonzalo Ramírez**
+**Fernando Ibañez, Gonzalo Ramírez, Vicente Soto**
 
 Responsables de garantizar integridad, velocidad y consistencia de los datos. Diseñan una base sólida para soportar crecimiento y analítica futura.
 
