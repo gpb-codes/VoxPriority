@@ -23,6 +23,8 @@ Construir un modelo de base de datos **sólido, consistente y escalable** que so
 |-----------|-----|
 | Fernando Ibañez | Base de Datos · DDL · Migraciones |
 | Gonzalo Ramirez | Modelado ER · Seeds · Seguridad |
+| Vicente soto | Modelado ER · Seeds · Seguridad |
+
 
 ---
 
