@@ -20,7 +20,7 @@
 
 ### Frontend — Experiencia de Usuario
 
-**Pablo Cocio, Gonzalo Ramírez**
+**Pablo Cocio, Gonzalo Ramírez, Gabriel Pedreros**
 
 Responsables de diseñar una interfaz moderna, intuitiva y centrada en productividad. Su foco es reducir la complejidad visual y acelerar la interacción del usuario.
 
