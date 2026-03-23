@@ -23,6 +23,8 @@ Construir una **interfaz usable y rápida** que consuma la API del backend. La a
 |-----------|-----|
 | Pablo Cocio | Frontend · Angular · React |
 | Gonzalo Ramirez | Frontend · TypeScript · RxJS |
+| Gabriel Pedreros | Frontend · TypeScript · RxJS |
+
 
 ---
 
