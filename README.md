@@ -35,7 +35,7 @@ Responsables de diseñar una interfaz moderna, intuitiva y centrada en productiv
 
 ### Backend — Lógica y Escalabilidad
 
-**Gabriel Pedreros, Dante Correa**
+**Gabriel Pedreros, Dante Correa, Vicente Soto**
 
 Encargados de construir una arquitectura robusta, eficiente y preparada para escalar. Gestionan la lógica de negocio, APIs y procesamiento de comandos de voz.
 
